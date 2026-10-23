@@ -4,17 +4,24 @@
 
 Welcome to my GitHub profile! I'm learning and building projects with Python, AI, and Large Language Models.
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🤖 Local AI Text Summarizer
+### 1. 🤖 Local AI Text Summarizer
 
-An AI-powered web application that summarizes long text into concise, easy-to-understand summaries.
+An AI-powered web application that transforms long text into concise, easy-to-understand summaries.
 
 - **Tech Stack:** Python, Streamlit, LangChain, Ollama
 - **Model:** Llama 3.2 (1B)
 - **Live Demo:** [Try the App](https://my-local-ai-summarizer-cetbdvs2ozk2mnvubxzeyj.streamlit.app/)
-- **Source Code:** [View on GitHub](https://github.com/rajuakhand/my-local-ai-summarizer)
+- **Source Code:** [GitHub Repository](https://github.com/rajuakhand/my-local-ai-summarizer)
 
+### 2. 🌱 AI-Powered Smart Green Building & Material Footprint Analyzer
+
+An interactive application for estimating construction material costs and embodied carbon emissions, with AI-assisted sustainability recommendations.
+
+- **Tech Stack:** Python, Streamlit, Pandas, Plotly, Google Gemini AI
+- **Live Demo:** [Try the App](https://green-building-analyzer-xbwtufdrcywjjthgika3iw.streamlit.app/)
+- **Source Code:** [GitHub Repository](https://github.com/rajuakhand/green-building-analyzer)
 ## 🛠️ Technologies I'm Exploring
 
 - Python
